@@ -10,9 +10,9 @@ Dados: datasetprojeto1.csv
 
 Algoritmo: Cluster.KMeans
 
-Dicionário de Dados:
+### Dicionário de Dados:
 
-- Variável/ Descrição
+#### Variável/ Descrição
 - id_transacao/ ID da transação. Um mesmo ID pode ter vários itens de um pedido;
 - horario_pedido/ Horário exato do pedido;
 - localidade/ Localidade que processou o pedido (unidade do restaurante);
